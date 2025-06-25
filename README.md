@@ -48,7 +48,7 @@
 
 ---
 
-## Пример вывода
+## Пример полученного результата
 
 ```text
 === BEFORE attack ===
@@ -58,6 +58,7 @@ MITM-ArpSpoofing recall: 0.80
 === AFTER attack ===
 DNS_Spoofing recall: 0.10
 MITM-ArpSpoofing recall: 0.31
+```
 
 5. **Выводы**
 
